@@ -31,8 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Splunk.ModularInput.Msmq.MessageHandlerContracts">
-      <HintPath>..\..\lib\Splunk.ModularInput.Msmq.MessageHandlerContracts.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\lib\Splunk.ModularInput.Msmq.MessageHandlerContracts.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
